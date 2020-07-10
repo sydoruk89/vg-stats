@@ -23,3 +23,6 @@ Jupyter files contain Video Game Sales and Sales datasets.
 * download vgsales.csv and put somewhere accessible to notebook. Root of project is fine
 * VS Code should recognize your notebook and interactively render
 * Alternately run jupyter lab externally
+
+## Configuration
+Used the folder created by Poetry as the root of your project’s git repository.
